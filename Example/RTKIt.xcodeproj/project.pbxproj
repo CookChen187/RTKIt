@@ -26,11 +26,11 @@
 		6003F5BB195388D20070C39A /* Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Tests.m; sourceTree = "<group>"; };
 		606FC2411953D9B200FFA9A0 /* Tests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Tests-Prefix.pch"; sourceTree = "<group>"; };
 		6DECAF65452734CE8151E08D /* Pods-RTKIt_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RTKIt_Tests.release.xcconfig"; path = "Target Support Files/Pods-RTKIt_Tests/Pods-RTKIt_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		79D06A804E3667EE5F4E4324 /* RTKIt.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = RTKIt.podspec; path = ../RTKIt.podspec; sourceTree = "<group>"; };
+		79D06A804E3667EE5F4E4324 /* RTKIt.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = RTKIt.podspec; path = ../RTKIt.podspec; sourceTree = "<group>"; };
 		8C2A7E7820ABF1BA610BFD02 /* Pods-RTKIt_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RTKIt_Tests.debug.xcconfig"; path = "Target Support Files/Pods-RTKIt_Tests/Pods-RTKIt_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		B8BE358BC84C0CE6DDA1B215 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		B8BE358BC84C0CE6DDA1B215 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		E5C5CB7095E00CED4A1DD671 /* Pods_RTKIt_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_RTKIt_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		EB4300CA3EF7F4D13774DF0C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		EB4300CA3EF7F4D13774DF0C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +54,6 @@
 				8C2A7E7820ABF1BA610BFD02 /* Pods-RTKIt_Tests.debug.xcconfig */,
 				6DECAF65452734CE8151E08D /* Pods-RTKIt_Tests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -160,6 +159,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);

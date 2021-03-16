@@ -1,0 +1,6 @@
+framework module Pods_RTKIt_Tests {
+  umbrella header "Pods-RTKIt_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

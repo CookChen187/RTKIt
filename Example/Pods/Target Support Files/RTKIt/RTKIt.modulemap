@@ -1,0 +1,6 @@
+framework module RTKIt {
+  umbrella header "RTKIt-umbrella.h"
+
+  export *
+  module * { export * }
+}
