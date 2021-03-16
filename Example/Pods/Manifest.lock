@@ -1,5 +1,5 @@
 PODS:
-  - RTKIt (0.1.0)
+  - RTKIt (1.0.0)
 
 DEPENDENCIES:
   - RTKIt (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  RTKIt: 79d02c45dfabd6126ff4caafe647643f39ba52e3
+  RTKIt: 6aab5fcc8cd8c93c882cc1742d7dcde16195e61a
 
 PODFILE CHECKSUM: 7333298777192ecd87fd59e94d255540a52ac2b1
 

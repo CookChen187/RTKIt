@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "RTBaseModel.h"
 
 FOUNDATION_EXPORT double RTKItVersionNumber;
 FOUNDATION_EXPORT const unsigned char RTKItVersionString[];

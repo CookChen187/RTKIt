@@ -1,19 +1,19 @@
 {
   "name": "RTKIt",
-  "version": "0.1.0",
-  "summary": "A short description of RTKIt.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/412256780@qq.com/RTKIt",
+  "version": "1.0.0",
+  "summary": "RTKIt.",
+  "description": "test",
+  "homepage": "https://github.com/JIAZICHEN/RTKIt",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "412256780@qq.com": "jiajiachenchen@aliyun.com"
+    "ChenJia": "412256780@qq.com"
   },
   "source": {
-    "git": "https://github.com/412256780@qq.com/RTKIt.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/JIAZICHEN/RTKIt.git",
+    "tag": "1.0.0"
   },
   "platforms": {
     "ios": "9.0"
