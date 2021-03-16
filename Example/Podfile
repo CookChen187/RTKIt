@@ -1,0 +1,6 @@
+use_frameworks!
+target 'RTKIt_Tests' do
+  pod 'RTKIt', :path => '../'
+  
+  
+end
